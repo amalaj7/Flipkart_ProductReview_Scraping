@@ -66,7 +66,7 @@ git add .
 ```
 
 ```bash
-git commit -m "make it better" 
+git commit -m "initial commit" 
 ```
 
 - Enter the command as below to push the code to the heroku cloud.
