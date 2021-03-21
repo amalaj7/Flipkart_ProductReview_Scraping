@@ -26,7 +26,7 @@ Install the packages in your environment :
 ```bash
 pip install -r requirements.txt
 ```
-Open MongoDB :
+Open MongoDB Compass:
 ```bash
 Connect from your local: mongodb://localhost:27017/ to see the reviews you have scrapped (after scraping)
 ```
