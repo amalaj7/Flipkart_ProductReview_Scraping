@@ -13,7 +13,7 @@ The things needed before we start building a python based web scraper are:
 *	Flask Installed. 
 *	MongoDB installed .
 *	Basic understanding of Python and HTML.
-*	Basic understanding of Git [download Git CLI](https://gitforwindows.org/)
+*	Basic understanding of Git , [download Git CLI](https://gitforwindows.org/)
 * [Download the Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
 
 __How To Run__ :
